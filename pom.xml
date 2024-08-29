@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-runnable</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Runnable</name>
     <description>Java library using functions, consumers, predicates, etc.</description>
     <url>https://github.com/orionlibs/orion-runnable</url>
@@ -236,7 +236,7 @@
         <dependency>
             <groupId>io.github.orionlibs</groupId>
             <artifactId>orion-object</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.2</version>
         </dependency>
     </dependencies>
 </project>
